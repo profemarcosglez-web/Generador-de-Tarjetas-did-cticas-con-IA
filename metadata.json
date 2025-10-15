@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Tarjetas Didácticas",
+  "description": "Una aplicación web que utiliza la API de Gemini para analizar un texto proporcionado por el usuario y generar tarjetas didácticas (flashcards) a partir de él. Los usuarios pueden pegar cualquier texto y obtener tarjetas interactivas para estudiar y aprender.",
+  "requestFramePermissions": []
+}
